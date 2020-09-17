@@ -16,3 +16,5 @@
 >
 
 ![example image](/images/example.png)
+
+##### [Example](https://tihon-ustinov.github.io/sort-test-js/index.html)
