@@ -15,4 +15,4 @@
 > Удалите array.json если хотите сделать новые данные
 >
 
-![](images\example.png)
+![example image](/images/example.png)
