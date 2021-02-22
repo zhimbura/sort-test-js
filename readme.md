@@ -1,3 +1,5 @@
+# Пример к статье [Нестабильная сортировка в JavaScript](https://habr.com/ru/company/rostelecom/blog/521146/)
+
 ## Графическое представление сравнения сортировок TimSort (native), QuickSort (native), WikiSort (custom), lodash.sortBy в JS
 
 ##### Запуск 
